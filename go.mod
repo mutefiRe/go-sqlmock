@@ -1,3 +1,1 @@
-module github.com/DATA-DOG/go-sqlmock
-
-go 1.12
+module github.com/mutefiRe/go-sqlmock
